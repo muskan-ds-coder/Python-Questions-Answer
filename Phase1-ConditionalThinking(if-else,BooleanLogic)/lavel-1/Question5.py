@@ -3,6 +3,6 @@
 num = int(input("Enter a year number :- "))
 
 if num % 4:
-    print("not leap year ")
+    print("leap year ")
 else:
-    print(" leap year ")
+    print("not leap year ")
