@@ -1,3 +1,5 @@
+# print all prime numbers in an interval
+
 lower = int(input("Enter the lower bound: "))
 upper = int(input("Enter the upper bound: "))
 
