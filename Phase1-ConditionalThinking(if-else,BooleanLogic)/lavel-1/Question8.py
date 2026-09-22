@@ -1,4 +1,4 @@
-# take a temperature value and print "cold", "warm", or "hot"range conditions.
+# take a temperature value and print "cold", "warm", or "hot" range conditions.
 
 temp = int(input("Please enter your temperature :- "))
 
