@@ -1,5 +1,6 @@
 # Find the factorial of a number.
 
+# solution 1 
 number = int(input("Enter a number to find its factorial: "))
 fact = 1
 

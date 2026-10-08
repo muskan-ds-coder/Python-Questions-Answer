@@ -7,6 +7,6 @@ if num1 %  2 == 0 and num2 % 2 == 0:
     print("both are even")
 elif num1 % 2 != 0 and num2 % 2 != 0:
     print("both are odd")
-else:
+elif num1 % 2 == 0 and num2 % 2 != 0 or num1 % 2 != 0 and num2 % 2 == 0:
     print("one is even and one is odd")
 
